@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "ligotools"
+version = "0.1.0"
+description = "Packaging of readligo utilities for the LOSC tutorial"
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name="Tony Zhang"}]
+[tool.setuptools]
+package-dir = {"" = "ligotools"}
+[tool.setuptools.packages.find]
+where = ["ligotools"]

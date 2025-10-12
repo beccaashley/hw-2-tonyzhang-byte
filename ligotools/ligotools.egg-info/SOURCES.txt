@@ -1,0 +1,6 @@
+README.md
+pyproject.toml
+ligotools/ligotools.egg-info/PKG-INFO
+ligotools/ligotools.egg-info/SOURCES.txt
+ligotools/ligotools.egg-info/dependency_links.txt
+ligotools/ligotools.egg-info/top_level.txt
