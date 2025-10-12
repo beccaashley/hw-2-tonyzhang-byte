@@ -1,1 +1,3 @@
 I used ChatGPT for the second deliverable. My prompt is "what steps should I start with to tackle this question?" And, I took a screen shot of the description of the second deliverable. 
+
+For the third deliverable, my prompt for ChatGPT is "Can you help me with this? I don't know where to start." Then, I got multiple outputs like this: 1) Create environment.yml (in your repo root); 2) Build the env and install your package; 3) Add the Jupyter kernel; 4) Quick sanity checks; 5) Commit, tag, push. After I got these outputs, I started to ask questions like "why do I need this sanity check?" or "Can you please debug this error message?"
